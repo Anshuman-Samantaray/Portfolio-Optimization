@@ -19,6 +19,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scipy fredapi
+```
 
 
 # Description
